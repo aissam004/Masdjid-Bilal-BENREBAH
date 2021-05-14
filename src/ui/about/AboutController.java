@@ -19,7 +19,7 @@ import util.MasdjidUtil;
 
 public class AboutController implements Initializable {
 
-    private static final String GITHUB = "https://www.linkedin.com/in/muhammedafsalvillan/";
+    private static final String GITHUB = "https://github.com/aissam004/Masdjid-Bilal-BENREBAH";
     private static final String GOOGLE_MAPS= "https://goo.gl/maps/kp3mXRCcsCYdarGdA";
 
     @Override

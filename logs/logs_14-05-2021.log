@@ -420,3 +420,4 @@ Caused by: java.lang.IllegalStateException: Location is not set.
 2021-05-14 19:51:43.619 [JavaFX Application Thread] INFO  ui.connexion.ConnexionController - User successfully logged in admin
 2021-05-14 19:57:21.551 [main] INFO  ui.main.Masdjid - Masdjid launched on 14-05-2021 07:57:21 PM
 2021-05-14 19:57:24.837 [Thread-7] INFO  ui.main.Masdjid - Library Assistant is closing on 14-05-2021 07:57:21 PM. Used for 1621018644836 ms
+2021-05-14 20:09:08.357 [Thread-10] INFO  ui.main.Masdjid - Library Assistant is closing on 14-05-2021 07:51:38 PM. Used for 1621019348355 ms

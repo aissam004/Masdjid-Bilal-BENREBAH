@@ -15,7 +15,7 @@
     <class>Entity.Sequence</class>
     <class>Entity.Materiel</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:C:\Users\pc\Desktop\masdjid\masdjid.db"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:src\database\masdjid.db"/>
       <property name="javax.persistence.jdbc.user" value=""/>
       <property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC"/>
       <property name="javax.persistence.jdbc.password" value=""/>
